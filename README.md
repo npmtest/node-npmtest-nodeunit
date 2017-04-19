@@ -1,4 +1,7 @@
-# test coverage for  [nodeunit (v0.11.0)](https://github.com/caolan/nodeunit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nodeunit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodeunit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodeunit.svg)](https://travis-ci.org/npmtest/node-npmtest-nodeunit)
+# npmtest-nodeunit
+
+#### test coverage for  [nodeunit (v0.11.0)](https://github.com/caolan/nodeunit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nodeunit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodeunit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodeunit.svg)](https://travis-ci.org/npmtest/node-npmtest-nodeunit)
+
 #### Easy unit testing for node.js and the browser.
 
 [![NPM](https://nodei.co/npm/nodeunit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodeunit)
